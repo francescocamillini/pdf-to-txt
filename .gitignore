@@ -1,0 +1,5 @@
+.vscode/
+env/
+./test/input/*
+./test/output/*
+!/**/.gitkeep
